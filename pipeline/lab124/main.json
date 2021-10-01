@@ -5,7 +5,7 @@
         "applanName": {
             "type": "string",
             "minLength": 1,
-         "defaultValue": "lab124"
+         "defaultValue": "demoplan1000"
         },
         "applanSKU": {
             "type": "string",
@@ -63,6 +63,6 @@
         }
     ],
     "variables": {
-        "demoappName": "staging-app-lab124"
+        "demoappName": "staging-app-4000"
     }
 }

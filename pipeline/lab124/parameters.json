@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "applanName": {
-      "value": "stagingplan1000"
+      "value": "lab124"
     },
     "applanSKU": {
       "value": "Basic"
